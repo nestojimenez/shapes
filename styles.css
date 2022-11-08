@@ -1,0 +1,11 @@
+.rectangle {
+    background: lightblue;
+    width: 1000px;
+    height: 1000px;
+}
+.circle {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
